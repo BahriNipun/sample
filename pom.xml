@@ -27,7 +27,7 @@
           <schemaVersion>V2</schemaVersion>
           <resourceGroup>helloworld-1597493840850-rg</resourceGroup>
           <appName>helloworld-1597493840850</appName>
-          <pricingTier>F1</pricingTier>
+          <pricingTier>S1</pricingTier>
           <region>westeurope</region>
           <runtime>
             <os>linux</os>
